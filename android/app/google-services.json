@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898901746986",
+    "project_id": "monogram-1b5fd",
+    "storage_bucket": "monogram-1b5fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898901746986:android:13b522aec2d97de7e5aa53",
+        "android_client_info": {
+          "package_name": "com.mycompany.monogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898901746986-oun3icvsp4m70ls0jsqovoh0teu6oljo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kWkUKYbMilQ2NSa2qeJ8nlsL7iYziCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898901746986-oun3icvsp4m70ls0jsqovoh0teu6oljo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+enum ReactionsType{
+  like,
+  unLike
+}
